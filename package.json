@@ -1,0 +1,22 @@
+{
+	"name": "sharktower",
+	"version": "1.0.0",
+	"description": "Sharktower Anagram Test",
+	"main": "anagramChecker.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/brad90/sharktower_test.git"
+	},
+	"author": "Stephen Bradley",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/brad90/sharktower_test/issues"
+	},
+	"homepage": "https://github.com/brad90/sharktower_test#readme",
+	"devDependencies": {
+		"jest": "^28.0.1"
+	}
+}
